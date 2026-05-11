@@ -166,12 +166,13 @@ static void MX_GPIO_Init(void)
 
 ## OUTPUT
 
-<img width="1280" height="960" alt="exp 1 iot" src="https://github.com/user-attachments/assets/1de1deff-7c78-4247-997a-144cfbc3f6e6" />
-
-<img width="1280" height="960" alt="IOT Exp1" src="https://github.com/user-attachments/assets/0b29a26b-c748-4e2c-add3-1acab3b06753" />
 
 
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/b07e8079-fdb6-4374-93d8-b7c1bf96f604" />
 
+
+
+<img width="1280" height="960" alt="IOT Exp1" src="https://github.com/user-attachments/assets/67e93f9e-4faa-4fcd-af69-7832f70d9b8a" />
 
 
 ## Result
